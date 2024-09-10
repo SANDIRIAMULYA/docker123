@@ -21,5 +21,5 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t renuka0912/git_to_docker:latest .
-        docker push renuka0912/git_to_docker:latest
+        docker build -t sandiriamulya/gitdocker:latest .
+        docker push sandiriamulya/gitdocker:latest
