@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: dock123-container
-        image: sandiriamulya/gitdocker/general:latest # Your Docker Hub image
+        image: sandiriamulya/gitdocker:latest # Your Docker Hub image
         ports:
         - containerPort: 3000
         envFrom:
