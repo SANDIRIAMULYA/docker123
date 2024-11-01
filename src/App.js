@@ -7,7 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hii Docker</h1>
-        <a>hello amulya</a>
         <h2>kb sir</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
